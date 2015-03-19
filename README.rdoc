@@ -1,0 +1,31 @@
+Improsper is a tool to help you win the fight against Imposter Syndrome.
+
+An app that analyzes your social media to determine when you are expressing a
+negative sentiment. Once a negative sentiment is discovered, Improsper sends you
+an uplifting or humorous text message.
+
+Future features: You can text Improsper to receive self care tips if you are
+experiencing anxiety, or get connected with resources if experiencing trauma,
+depression or suicidal thoughts.
+
+
+Plan
+---
+get a hello world rails app
+rails app can authenticate and log into twitter api
+rails app can read last tweet
+rails app can detect a sentiment of last tweet
+rails app can print the sentiment
+rails app can authenticate with twilio api
+rails app can text me the sentiment
+rails app allows login with twitter
+rails app asks for phone number
+rails app can text that number
+rails app can read logged in users last tweet
+rails app can detect sentiment of users last tweet
+rails app can text the sentiment of users last tweet
+rails app can access database
+When negative sentiment is determined, rails texts a happy canned message
+when negative sentiment is determined, rails app searches database for positive messages
+"", rails app randomly selects positive message from database
+"", rails app texts selected message
